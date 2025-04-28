@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "72205032145",
+    "project_id": "travellibre1",
+    "storage_bucket": "travellibre1.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:72205032145:android:c55df4b22c38b7c2e243f0",
+        "android_client_info": {
+          "package_name": "com.example.p1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "72205032145-77gjekl32jmtjciduncjdjnnuusir43e.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgk8dYw10K3TN_oWq3jfFB8RmveLAqoLA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "72205032145-77gjekl32jmtjciduncjdjnnuusir43e.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

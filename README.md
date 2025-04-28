@@ -1,9 +1,10 @@
 ## Pantallazos
 
 ### PANTALLA 1: INICIO (LOGIN)
-![Inicio (Login)]![image](https://github.com/user-attachments/assets/aa3c0cfd-c79d-4775-ba2b-b5b521bcb65b)
-
 Esta pantalla permite al usuario ingresar sus credenciales para acceder a la aplicación.
+
+![image](https://github.com/user-attachments/assets/fb41ddb1-8037-48d2-b789-0c7c5d74b0e9)
+
 
 ### PANTALLA 2: Ingreso/Menú de la app (Vista del cliente)
 ![Ingreso/Menu Cliente](ruta/a/imagen2.png)

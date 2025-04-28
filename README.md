@@ -13,7 +13,7 @@ Una vez que el cliente inicia sesión, se le presenta este menú donde puede nav
 ### PANTALLA 3: Registro de usuario (Register)
 Aquí el nuevo usuario puede registrar sus datos para acceder a la plataforma.
 
-![image](https://github.com/user-attachments/assets/b6ac8fbf-76be-44fe-91bc-a5d5d2689927)
+![image](https://github.com/user-attachments/assets/a30347d9-acd4-41e6-9d69-f0d175617260)
 
 ### PANTALLA 4: Registro de proveedor
 Pantalla para que los proveedores registren su información en el sistema.
